@@ -62,21 +62,6 @@ legal-chatbot-lawgpt/
 - Demonstrated ability to provide reliable, contextually relevant answers in **Tamil, English, Hindi, and other languages**.  
 - Reduced language barrier and improved legal literacy for marginalized users.  
 
----
-
-## 📸 Screenshots
-### Main Interface
-![LawGPT Interface](./screenshots/main.png)
-
-### Sample Response
-![LawGPT Response](./screenshots/response.png)
-
-### Multilingual Support
-![LawGPT Multilingual](./screenshots/multilingual.png)
-
-*(Add real screenshots from your Streamlit app here.)*  
-
----
 
 ## ▶️ Getting Started
 ### 1. Clone the repo

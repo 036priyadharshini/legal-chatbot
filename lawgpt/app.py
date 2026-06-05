@@ -148,7 +148,7 @@ ANSWER:
 prompt = PromptTemplate(template=prompt_template,
                         input_variables=['context', 'question', 'chat_history'])
 
-TOGETHER_AI_API= "63bccdc3873d35315fd7077aabf08f9fdb9162dbd3bc3f650d1542787a369210"
+TOGETHER_AI_API= "api key"
 llm = Together(
     model="mistralai/Mistral-7B-Instruct-v0.2",
     temperature=0.5,
